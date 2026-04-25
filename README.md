@@ -1,6 +1,6 @@
 # Sonic Mania Decompilation: Nintendo 3DS Build Guide
 
-***This guide is recomended for Linux only.*** If you are running Windows and are having issues, please install Windows Subsystem for Linux and try again.
+***This guide is recomended for Linux only.*** If you are running Windows and are having issues, please install Windows Subsystem for Linux with an OS (I used Ubuntu) and try again.
 
 ## Instructions Linux
 
@@ -11,6 +11,7 @@
 5. Make the script executable by running `chmod +x buildscript.sh`.
 6. Run it using `./buildscript.sh`.
 7. When the script is done running, your 3DSX will be located in `Sonic-Mania-Decompilation/build/dependencies/v5_3DS/` and the CIA will be in `Sonic-Mania-Decompilation/dependencies/v5_3DS/3ds/out/`
+
 # Instructions Windows (MSYS2)
 
 1. Install devkitPro from [here](https://github.com/devkitPro/installer/releases) and accept all defaults
