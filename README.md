@@ -16,7 +16,7 @@
 
 1. Install devkitPro from [here](https://github.com/devkitPro/installer/releases) and accept all defaults
 2. Open the app called Msys2
-3. In Msys2 run: 'pacman -S 3ds-libtheora 3ds-sdl libctru 3ds-dev git'
+3. In Msys2 run: `pacman -S 3ds-libtheora 3ds-sdl libctru 3ds-dev git`
 4. Download the **Sonic Mania 3DS Quick Build Script** from [here](https://raw.githubusercontent.com/Pansudo32/3DS-RSDKv5-Decompilation/3ds-main/buildscript.sh) with `wget https://raw.githubusercontent.com/Pansudo32/3DS-RSDKv5-Decompilation/3ds-main/buildscript.sh`
 5. Make the script executable by running `chmod +x buildscript.sh`.
 6. Run it using `./buildscript.sh`.
